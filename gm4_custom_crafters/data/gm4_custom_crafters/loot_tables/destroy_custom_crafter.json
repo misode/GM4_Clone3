@@ -5,7 +5,7 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "minecraft:brrr",
           "name": "minecraft:cobblestone",
           "functions": [
             {
